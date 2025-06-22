@@ -35,11 +35,6 @@ Noisee is a modern web application built with Next.js that combines productivity
 - Seamless playback controls
 - Supports any YouTube URL
 
-### 🎬 **Movie Player**
-- Video playback capabilities
-- Perfect for background entertainment
-- Responsive video controls
-
 ### 🎨 **Audio Reactive Ball**
 - Interactive ASCII art visualization
 - Real-time audio reactivity
